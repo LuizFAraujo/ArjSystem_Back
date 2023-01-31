@@ -10,4 +10,8 @@
     <ProjectReference Include="..\ArjSystem.Infra.IoC\ArjSystem.Infra.IoC.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="ViewModels\" />
+  </ItemGroup>
+
 </Project>
