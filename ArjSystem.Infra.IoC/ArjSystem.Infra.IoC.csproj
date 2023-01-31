@@ -6,4 +6,10 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\ArjSystem.Application\ArjSystem.Application.csproj" />
+    <ProjectReference Include="..\ArjSystem.Domain\ArjSystem.Domain.csproj" />
+    <ProjectReference Include="..\ArjSystem.Infra.Data\ArjSystem.Infra.Data.csproj" />
+  </ItemGroup>
+
 </Project>

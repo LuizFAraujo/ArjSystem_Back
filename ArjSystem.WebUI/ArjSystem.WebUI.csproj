@@ -6,4 +6,8 @@
     <ImplicitUsings>enable</ImplicitUsings>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\ArjSystem.Infra.IoC\ArjSystem.Infra.IoC.csproj" />
+  </ItemGroup>
+
 </Project>
